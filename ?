@@ -1,4 +1,4 @@
--- i stole this hehe thats why its not obfuscated :D
+-- // i stole this hehe thats why its not obfuscated :D
 
 -- // Services
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
