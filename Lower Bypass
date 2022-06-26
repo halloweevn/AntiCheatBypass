@@ -1,4 +1,4 @@
--- // another dh ac bypass i stole it again so i wont obfuscate it
+-- // another dh ac bypass i didnt make this as well so credits to whoever did
 
 -- // Services
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
